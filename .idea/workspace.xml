@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e56aaaa-c9c8-48b5-aa48-a3d2fbbf55c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.postcssrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/.postcssrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/check-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/vue-loader.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.test.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/build/webpack.test.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/test.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/config/test.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/Profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/SignIn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/SignIn.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/acOverview.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/acOverview.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/activityList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/activityList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/addActivity.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/addActivity.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/audienceList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/audienceList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/boutique.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/boutique.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/ManageType.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/ManageType.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addNewCollection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addNewCollection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addNewType.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addNewType.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addNewWenchuagn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addNewWenchuagn.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addWenchuagnType.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/addWenchuagnType.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editActivity.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editActivity.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editCollection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editCollection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editResearch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editResearch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/editor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/manageWenchuang.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/manageWenchuang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/memberList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/memberList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/paramsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/paramsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewBoutique.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewBoutique.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewExhibit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewExhibit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewNews.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewNews.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewResearch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewResearch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewWenchuang.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/previewWenchuang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/ue.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/components/ue.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/cutImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/cutImage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/editResearch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/editResearch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/research.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/research.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/bannerList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/bannerList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/example.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/example.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/indexMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/indexMenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/layout/BasicLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/layout/BasicLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/power.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/power.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/uploadImg.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/uploadImg.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/wenchuang.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/wenchuang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/zhanlan.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/zhanlan.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/zixun.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/zixun.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/fetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/mUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/mUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/md5.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/config/md5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/style/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/style/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/style/mixin.less" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/style/mixin.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/style/preview.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/style/preview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/vuex/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/vuex/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/vuex/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/vuex/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/anchor/anchor.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/anchor/anchor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/attachment/attachment.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/attachment/attachment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/attachment/attachment.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/attachment/attachment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/background/background.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/background/background.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/background/background.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/background/background.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/background/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/background/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/charts/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/charts/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/emotion/emotion.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/emotion/emotion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/emotion/emotion.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/emotion/emotion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/emotion/emotion.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/emotion/emotion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/gmap/gmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/gmap/gmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/help/help.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/help/help.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/help/help.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/help/help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/help/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/help/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/image/image.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/image/image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/image/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/image/image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/image/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/image/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/insertframe/insertframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/internal.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/internal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/link/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/link/link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/map/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/map/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/music/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/music/music.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/music/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/music/music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/music/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/music/music.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/scrawl/scrawl.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/scrawl/scrawl.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/scrawl/scrawl.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/searchreplace/searchreplace.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/searchreplace/searchreplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/snapscreen/snapscreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/spechars/spechars.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/spechars/spechars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/spechars/spechars.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/spechars/spechars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/template/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/video/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/video/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/video/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/video/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/video/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/webapp/webapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/webapp/webapp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/wordimage/wordimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/wordimage/wordimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/lang/en/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/lang/en/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/lang/zh-cn/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/php/Uploader.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/php/Uploader.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/themes/default/css/ueditor.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/themes/default/css/ueditor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/themes/default/dialogbase.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/themes/default/dialogbase.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/themes/iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/themes/iframe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/SyntaxHighlighter/shCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.flashonly.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.html5only.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.withoutimage.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/ueditor.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/ueditor.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/ueditor.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/UEditor/ueditor.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/exporting.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/exporting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/highcharts-xrange.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/static/highcharts-xrange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/custom-assertions/elementCount.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/nightwatch.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/runner.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/runner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/specs/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/e2e/specs/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/jest.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/jest.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/setup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/specs/HelloWorld.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/shandong-art-front/shandong-art-project/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/layout/BasicLayout.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>q</find>
+      <find>qiniup</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shandong-art-front" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="161" />
+    <option name="y" value="86" />
+    <option name="width" value="1680" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shandong-art-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shandong-art-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shandong-art-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shandong-art-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shandong-art-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shandong-art-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-front" type="462c0819:PsiDirectoryNode" />
+              <item name="shandong-art-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e56aaaa-c9c8-48b5-aa48-a3d2fbbf55c8" name="Default Changelist" comment="" />
+      <created>1572591436372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572591436372</updated>
+      <workItem from="1572591438070" duration="28000" />
+      <workItem from="1574385270549" duration="2456000" />
+      <workItem from="1576460499679" duration="4111000" />
+      <workItem from="1576640606036" duration="232000" />
+      <workItem from="1578910491507" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6942000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="161" y="86" width="1680" height="868" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32860824" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/SignIn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/uploadImg.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="9" selection-start-line="55" selection-start-column="8" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/editResearch.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="59" selection-start-line="98" selection-start-column="59" selection-end-line="98" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/addSystem/cutImage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="168" column="21" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+          <folding>
+            <element signature="e#7252#8836#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shandong-art-front/shandong-art-project/src/components/layout/BasicLayout.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
